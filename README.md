@@ -77,7 +77,7 @@ This project is fully client-side and requires no build process.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<YourUsername>/<YourRepoName>.git
+    git clone https://github.com/AbhinitBarua/libraryofbabel.git
     cd <YourRepoName>
     ```
 
