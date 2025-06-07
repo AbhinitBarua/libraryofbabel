@@ -78,7 +78,7 @@ This project is fully client-side and requires no build process.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/AbhinitBarua/libraryofbabel.git
-    cd <YourRepoName>
+    cd libraryofbabel
     ```
 
 2.  **Start a local server.** If you have Python 3 installed, you can easily start one:
